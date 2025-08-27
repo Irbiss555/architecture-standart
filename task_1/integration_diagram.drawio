@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Страница — 1" id="fQY4pr4GiPK1WQbx5Op2">
-    <mxGraphModel dx="2203" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1859" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="tFbZ_RPy5EgKQhqWMb15-27" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;elbow=vertical;" parent="1" source="XyfoiuV2LC8GygoPES8q-42" target="XyfoiuV2LC8GygoPES8q-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JkMmwFxvSoc6E2bc__1v-1" value="Тех поддержка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tFbZ_RPy5EgKQhqWMb15-27">
+        <mxCell id="JkMmwFxvSoc6E2bc__1v-1" value="Тех поддержка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tFbZ_RPy5EgKQhqWMb15-27" vertex="1" connectable="0">
           <mxGeometry x="0.2464" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -157,9 +157,6 @@
         </mxCell>
         <mxCell id="tFbZ_RPy5EgKQhqWMb15-2" value="Интернет-банк" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-158.8" y="736" width="240" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="tFbZ_RPy5EgKQhqWMb15-7" value="" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;startArrow=classic;startFill=1;" parent="1" source="tFbZ_RPy5EgKQhqWMb15-3" target="tFbZ_RPy5EgKQhqWMb15-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tFbZ_RPy5EgKQhqWMb15-3" value="Сайт" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-158.8" y="1025" width="240" height="100" as="geometry" />
